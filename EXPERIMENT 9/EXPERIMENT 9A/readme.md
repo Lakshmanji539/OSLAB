@@ -1,11 +1,11 @@
 # program file
-![program file](FCFS_510.py)
+![program file](FCFS_539.py)
 
 # program code 
-![program code](FCFS_CODE_510.jpg)
+![program code](FCFS_CODE_539.jpg)
 
 # sample output
-![sample output](FCFS_IO_510.jpg)
+![sample output](FCFS_IO_539.jpg)
 
 # executed output
-![executed output](FCFS_EO_510.jpg)
+![executed output](FCFS_EO_539.jpg)
